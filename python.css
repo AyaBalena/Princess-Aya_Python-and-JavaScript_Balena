@@ -1,0 +1,25 @@
+/* Student grade evaluation system in Python */
+
+/* Get the student's numerical score
+ score = float(input("Enter the student's score: ")) */
+
+/* Pass of Fail evaluation using if-else statement
+ if score >= 75:
+     print("Pass")
+ else:
+     print("Fail") */
+
+/* Grade evaluation using if-elif-else statement
+ if score >= 90:
+     print("A")
+ elif score >= 80:
+     print("B")
+ elif score >= 70:
+     print("C")
+ elif score >= 60:
+     print("D")
+ else:
+     print("F") */
+
+/* End of python.css */
+```
